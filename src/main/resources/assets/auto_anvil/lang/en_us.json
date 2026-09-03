@@ -1,0 +1,9 @@
+{
+  "key.category.auto_anvil.controls": "Auto Anvil",
+  "key.auto_anvil.target_menu": "Item selector menu",
+  "key.auto_anvil.toggle": "Toggle on/off",
+  "screen.auto_anvil.target_selector": "Auto Anvil - Select Target Item",
+  "screen.auto_anvil.page": "Page %s / %s",
+  "screen.auto_anvil.previous": "Previous",
+  "screen.auto_anvil.next": "Next"
+}
